@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+# this is a list 
+- Long wald
+- Dancing
+- open source 
+- learning 
